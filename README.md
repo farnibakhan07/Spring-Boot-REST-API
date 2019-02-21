@@ -1,12 +1,12 @@
 # Spring-Boot-REST-API
 The main functionalities of the REST API:
 
-GET request to /RestAPI/book/ returns a list of books
-GET request to /RestAPI/book/1 returns the book with ID 1
-POST request to /RestAPI/book/ with a book object as JSON creates a new book
-PUT request to /RestAPI/book/3 with a book object as JSON updates the book with ID 3
-DELETE request to /RestAPI/book/4 deletes the book with ID 4
-DELETE request to /RestAPI/book/ deletes all the books
+1. GET request to /RestAPI/book/ returns a list of books
+2. GET request to /RestAPI/book/1 returns the book with ID 1
+3. POST request to /RestAPI/book/ with a book object as JSON creates a new book
+4. PUT request to /RestAPI/book/3 with a book object as JSON updates the book with ID 3
+5. DELETE request to /RestAPI/book/4 deletes the book with ID 4
+6. DELETE request to /RestAPI/book/ deletes all the books
 
 Run Instructions:
 To test this API, an external client POSTMAN can be used.
